@@ -4,4 +4,5 @@ I have coded a digital clock with JavaScript for homework which is from<a href="
 
 # Screenshot
 
-!(Screenshot)[img/screenshot.png]
+![Proje Resmi](img/screenshot.png)
+
